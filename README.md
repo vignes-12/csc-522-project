@@ -1,2 +1,2 @@
-# csc-522-project
-CSC 522 Object Detection Project
+# CSC 522 Object Detection Project
+This was a group project that me, Sushant Khattar, Rishabh Jain, and Zahra Shiraz worked on for the CSC 522 Automated Learning and Data Analysis class. Please find the code that each of us used to evaluate our respective model architectures (YOLO v5, VGG, Inception v4, and ResNet50) for the Object Recognition project against the [Caltech-256](https://data.caltech.edu/records/nyy15-4j048) dataset, as well as the project report that we wrote together as well.
